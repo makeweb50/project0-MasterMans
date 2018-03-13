@@ -21,3 +21,7 @@ html {
   align-items: center;
   justify-content: center;
 }
+.header_title {
+  font-size: 90px;
+  margin-bottom: 30px;
+}
