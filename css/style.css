@@ -3,10 +3,11 @@ html {
   font-size: 1.2vw;
   line-height: 1.5;
 }
+body {background: url("../img/fon.png");}
 
 .header {
   background: #343c4e;
-  background-image: url("../img/city0.jpg");
+  background-image: url("../img/city2.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -20,18 +21,19 @@ html {
   align-items: center;
 }
 .header_title {
+  padding-bottom: 30px;
   font-size: 10vh;
 }
 
 .row {
-  max-width: 1140px;
-  margin-left: auto;
-  margin-right: auto;
+
 }
 .container {
+  margin: 0 auto;
+  width: 100%;
 }
-.row > div {
-  padding: 30px;
+.tit {
+  padding: 2vw;
 }
 .row img {
   display: block;
@@ -43,5 +45,14 @@ html {
   font-size: 3vw;
 }
 .col-4 {
+  padding: 30px;
   text-align: center;
+}
+.tet {
+  padding-bottom: 2vw;
+}
+.The_End img {
+  display: block;
+  max-width: 100% ;
+  height: auto;
 }
