@@ -24,4 +24,24 @@ border-radius: 5px;
 
 a {
   font-size: 1vw;
+  color: #17a2b8 ;
+}
+table {
+  border: 2px solid #17a2b8;
+  border-collapse: collapse;
+}
+th, td {
+  color: #17a2b8;
+  border: 1px solid #17a2b8;
+}
+.Text{
+  color: #17a2b8 ;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+p {
+  color: #17a2b8;
+}
+h1 {
+  color: #17a2b8;
 }
