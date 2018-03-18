@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,0BAAqB;EACnB,KAAK,EAHC,OAAO;;AAKf,KAAM;EACJ,MAAM,EAAE,iBAAgB;EACxB,eAAe,EAAE,QAAQ;;AAE3B,MAAO;EACL,MAAM,EAAE,iBAAgB;;AAE1B,KAAK;EACH,KAAK,EAbC,OAAO",
+"sources": ["../../../%D0%BF%D0%BE%D0%B8%D1%81%D0%BA/project0/css/style1.scss"],
+"names": [],
+"file": "style1.css"
+}

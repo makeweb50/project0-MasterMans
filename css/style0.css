@@ -2,7 +2,6 @@ html {
   font-family: 'Playfair Display', serif;
   font-size: 1.8vw;
   line-height: 1.5;
-  color: #17a2b8;
 }
 body {background: url("../img/fon.png");}
 
@@ -24,24 +23,18 @@ border-radius: 5px;
 
 a {
   font-size: 1vw;
-  color: #17a2b8 ;
-}
-table {
-  border: 2px solid #17a2b8;
-  border-collapse: collapse;
-}
-th, td {
-  color: #17a2b8;
-  border: 1px solid #17a2b8;
 }
 .Text{
-  color: #17a2b8 ;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
-p {
-  color: #17a2b8;
+.Kek img {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
-h1 {
-  color: #17a2b8;
+@media (max-width: 500px) {
+  h1::before {
+    content: "Тесно :(  -";
+  }
 }

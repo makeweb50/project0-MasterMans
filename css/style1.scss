@@ -1,0 +1,15 @@
+$color: #17a2b8;
+
+html,a,p,li,th,td,h1 {
+  color: $color;
+}
+table {
+  border: 2px solid $color;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid $color;
+}
+.Text{
+  color: $color ;
+}
